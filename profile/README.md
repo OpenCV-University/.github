@@ -2,8 +2,6 @@
 
 Official home for OpenCV courses, workshops, certifications, and hands-on projects. Learn computer vision, deep learning, and AI from beginner to advanced with the creators of OpenCV.
 
-# AI Courses by OpenCV
-
 Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start. 
 
 <a href="https://opencv.org/courses/">
